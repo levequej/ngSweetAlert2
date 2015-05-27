@@ -1,6 +1,6 @@
 {
 	"name": "ngSweetAlert2",
-	"version": "2.1.2",
+	"version": "2.1.3",
 	"main": "./SweetAlert.js",
 	"authors": [
 		"williamli@19degrees.io",
@@ -24,7 +24,7 @@
 		"CHANGELOG.md"
 	],
 	"dependencies": {
-		"angular":"~1.2",
+		"angular":"~1.3.0",
 		"sweetalert2":"~0.2"
 	},
 	"devDependencies": {

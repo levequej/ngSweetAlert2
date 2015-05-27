@@ -1,9 +1,10 @@
 {
 	"name": "ngSweetAlert2",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"main": "./SweetAlert.js",
 	"authors": [
-		"williamli@19degrees.io"
+		"williamli@19degrees.io",
+		"levequej@gmail.com"
 	],
 	"description": "AngularJS wrapper for SweetAlert2",
 	"keywords": [
@@ -23,8 +24,8 @@
 		"CHANGELOG.md"
 	],
 	"dependencies": {
-		"angular":"~1.2.0",
-		"sweetalert2":">=0.1.9"
+		"angular":"~1.2",
+		"sweetalert2":"~0.2"
 	},
 	"devDependencies": {
 	}
